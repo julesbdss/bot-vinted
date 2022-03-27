@@ -1,0 +1,23 @@
+{
+    "token": "OTU3MzI4Nzg2MzQ3Njg4MDI2.Yj9L6A.xysndb-1IearzZA1FXfGPTUpgmI",
+    "prefix": "$",
+    "status": "Dev by 2$py#6495",
+    "suburl": {
+        "https://discord.com/api/webhooks/957332851769098321/A2NBUQ3Ai_naDB4-houiGL5JJLr3T-ve1SNkdsTlr8WyuwK8ZyVeqFTzBbQk91LhVHgf": {
+            "url": "https://www.vinted.fr/vetements?brand_id[]=88&brand_id[]=304&catalog[]=1812&size_id[]=207&size_id[]=208&size_id[]=209&price_to=30&currency=EUR&price_from=0",
+            "salon": "bot"
+        },
+        "https://discord.com/api/webhooks/957334763637714994/6PpoLWKenVfXaEBFXxzgPmIZFCq2UrwZTNwQ4weYek2gMTIByPffeDEEFDBQ7zH5Tq_2": {
+            "url": "https://www.vinted.fr/vetements?size_id[]=207&size_id[]=208&catalog[]=1206&brand_id[]=362&brand_id[]=872289&price_to=30&currency=EUR&order=newest_first",
+            "salon": "carhartt"
+        },
+        "https://discord.com/api/webhooks/957336260026986606/mm_VZJATULX5f5eOQzyFzv3cY_dJKaRj0oVeif8qWBvihXGAp3WC3zb-bOd7heBaIR1K": {
+            "url": "https://www.vinted.fr/vetements?size_id[]=207&size_id[]=208&catalog[]=1811&currency=EUR&order=newest_first&brand_id[]=73306&price_to=90",
+            "salon": "stone-island"
+        },
+        "https://discord.com/api/webhooks/957336787813031966/qKCTGekn4CoD6wipJoI9SlrOu23woI3eD_J1neyF2gL0o5ew1Okb_MONO8hm8EPKNI69": {
+            "url": "https://www.vinted.fr/vetements?size_id[]=207&size_id[]=208&size_id[]=209&catalog[]=79&brand_id[]=88&currency=EUR&price_to=30&order=newest_first",
+            "salon": "ralph-lauren"
+        }
+    }
+}
